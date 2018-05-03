@@ -1,0 +1,23 @@
+{
+  "name": "electronpruebas",
+  "version": "1.0.0",
+  "description": "Pruebas y cosas varias",
+  "main": "index.js",
+  "scripts": {
+    "start":"electron main.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barajin/ElectronStuff.git"
+  },
+  "author": "Barajin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Barajin/ElectronStuff/issues"
+  },
+  "homepage": "https://github.com/Barajin/ElectronStuff#readme",
+  "dependencies": {
+    "electron": "^2.0.0"
+  }
+}
